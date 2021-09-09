@@ -3,6 +3,8 @@ THIS IS A SIMPLE SHELL.
 
 FEATURE: pipe, redirection, illegal command detection.
 
+the detailed description of this task is in the HW.pdf.
+
 
 
 two bugs for this shell:
