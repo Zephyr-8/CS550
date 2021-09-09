@@ -1,3 +1,10 @@
+
+THIS IS A SIMPLE SHELL. 
+
+FEATURE: pipe, redirection, illegal command detection.
+
+
+
 two bugs for this shell:
 
 1.for redirection, if the input/output file doesn't exist. the program will report an error instead of creating a file and execute the command.（but if the file already exists,it works successfully)
